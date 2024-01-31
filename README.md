@@ -5,6 +5,6 @@
 # Vic
 # Kel
 
-####This repository will contain code to interface with sensors using a Raspberry Pi
+#### This repository will contain code to interface with sensors using a Raspberry Pi
     
 #### yay python
